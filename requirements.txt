@@ -1,0 +1,6 @@
+--index-url https://pypi.douban.com/simple
+python_version ~= "3.6.0"
+PyQt5==5.14.1
+pyserial==3.4
+PyInstaller==3.6
+

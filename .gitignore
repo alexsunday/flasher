@@ -1,0 +1,13 @@
+venv
+dlg.py
+
+.vscode
+__pycache__
+build
+dist
+*.spec
+
+
+resource_rc.py
+dlg.py
+
