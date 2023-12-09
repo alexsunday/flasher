@@ -1,5 +1,5 @@
 --index-url https://pypi.douban.com/simple
 PyQt5==5.14.1
 pyserial==3.4
-PyInstaller==3.6
+PyInstaller==5.13.1
 
